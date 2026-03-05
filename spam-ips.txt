@@ -42,6 +42,20 @@
 # Tor exit nodes
 185.220.101.0/24   # Tor exit nodes — propaganda bots
 
+# Individual IPs (manually blocked on troet.cafe)
+27.124.19.58/32    # spam registration
+42.112.181.1/32    # spam registration
+89.169.36.109/32   # spam registration
+117.217.218.77/32  # spam registration
+121.169.46.116/32  # spam registration
+161.35.31.237/32   # spam registration — DigitalOcean
+174.138.61.184/32  # spam registration — DigitalOcean
+176.72.93.130/32   # spam registration
+182.160.109.166/32 # spam registration
+186.26.95.249/32   # spam registration
+193.233.254.7/32   # spam registration
+194.163.167.32/32  # spam registration — Contabo
+
 # IPv6
-2a03:90c0:23::/48  # 12 Spam — VPN/Hosting
-2605:6440::/32     # 6 Spam — Hosting
+2a03:90c0:23::/48  # 12 spam — VPN/Hosting
+2605:6440::/32     # 6 spam — Hosting
