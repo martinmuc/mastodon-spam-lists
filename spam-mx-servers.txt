@@ -1,0 +1,23 @@
+# Mastodon Spam MX Servers
+# Curated by troet.cafe & muenchen.social (since 2026-03)
+#
+# Mail servers (MX records) shared by large clusters of spam domains.
+# Blocking or monitoring these MX servers can catch new spam domains
+# before they appear on any blocklist.
+#
+# Format: one MX hostname per line, comments with #
+
+# Largest cluster: 128 of 192 known spam domains resolve to these two MX servers
+# This is a single spam mail infrastructure operator.
+mail.wabblywabble.com
+mail.wallywatts.com
+
+# Vietnamese spam mail cluster (8 domains)
+smtp.oneb.net
+
+# Disposable mail service cluster (5 domains)
+mx.fex.plus
+
+# Smaller clusters (2+ domains each)
+in.mail.tm
+tinyhost.shop

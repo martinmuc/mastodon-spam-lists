@@ -8,14 +8,19 @@ Kuratierte Listen von E-Mail-Domains und IP-Ranges, die wiederholt für Spam-Reg
 
 | File | Content | Entries |
 |------|---------|---------|
-| `spam-domains.txt` | Disposable email domains | ~100 |
-| `spam-ips.txt` | IP ranges (CIDR) | ~30 |
+| `spam-domains.txt` | Disposable email domains | ~190 |
+| `spam-ips.txt` | IP ranges (CIDR) | ~60 |
+| `spam-mx-servers.txt` | Mail servers behind spam domains | 6 |
 
 ## Context / Kontext
 
 The domains in `spam-domains.txt` are **not** included in the well-known [disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) list — they complement it.
 
 The IP ranges in `spam-ips.txt` belong to hosting providers, VPN services, and Tor exit nodes that are repeatedly abused for automated spam registrations.
+
+**Key finding:** 128 of 192 spam domains (67%) share the same two MX servers (`mail.wabblywabble.com` and `mail.wallywatts.com`). This means a single operator runs most of the spam email infrastructure. See `spam-mx-servers.txt` for all known spam MX servers — useful for detecting new spam domains before they appear on any blocklist.
+
+**Wichtiger Fund:** 128 von 192 Spam-Domains (67%) nutzen dieselben zwei MX-Server (`mail.wabblywabble.com` und `mail.wallywatts.com`). Das bedeutet: ein einziger Betreiber steckt hinter dem Großteil der Spam-Mail-Infrastruktur. Siehe `spam-mx-servers.txt` für alle bekannten Spam-MX-Server — nützlich um neue Spam-Domains zu erkennen bevor sie auf einer Blockliste stehen.
 
 ## Origin / Herkunft
 
