@@ -34,6 +34,12 @@ Pull requests with additional domains/IPs are welcome. Please:
 - Do not add legitimate mail providers or residential ISP ranges
 - Sort domains alphabetically
 
+## Updates
+
+These lists are actively maintained and updated regularly based on ongoing moderation of our instances.
+
+Diese Listen werden aktiv gepflegt und regelmäßig auf Basis der laufenden Moderation unserer Instanzen aktualisiert.
+
 ## License / Lizenz
 
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — Public Domain. Free to use without restrictions.
