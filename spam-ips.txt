@@ -32,6 +32,8 @@
 112.120.48.0/24    # Hosting (HK)
 130.195.212.0/24   # Hosting
 223.204.126.0/24   # Hosting (TH)
+103.23.207.0/24    # Hosting
+182.252.81.0/24    # Hosting
 
 # VPN providers (spam abuse)
 146.70.103.0/24    # 16 spam — Mullvad VPN
@@ -42,20 +44,40 @@
 # Tor exit nodes
 185.220.101.0/24   # Tor exit nodes — propaganda bots
 
-# Individual IPs (manually blocked on troet.cafe)
+# Individual IPs (manually blocked on troet.cafe and muenchen.social)
+14.241.80.137/32   # spam registration
+23.106.249.37/32   # spam registration
+23.154.136.106/32  # spam registration
 27.124.19.58/32    # spam registration
 42.112.181.1/32    # spam registration
+51.89.173.123/32   # spam registration — OVH
 89.169.36.109/32   # spam registration
+103.74.230.54/32   # spam registration
+103.189.218.83/32  # spam registration
+104.223.103.71/32  # spam registration
 117.217.218.77/32  # spam registration
+118.179.40.215/32  # spam registration
+118.179.40.221/32  # spam registration
+118.179.97.201/32  # spam registration
 121.169.46.116/32  # spam registration
+123.136.31.130/32  # spam registration
+134.199.159.23/32  # spam registration
+143.110.217.153/32 # spam registration — DigitalOcean
 161.35.31.237/32   # spam registration — DigitalOcean
+173.205.82.53/32   # spam registration
 174.138.61.184/32  # spam registration — DigitalOcean
 176.72.93.130/32   # spam registration
 182.160.109.166/32 # spam registration
 186.26.95.249/32   # spam registration
+193.106.248.90/32  # spam registration
+193.108.116.74/32  # spam registration
 193.233.254.7/32   # spam registration
+194.59.248.214/32  # spam registration
 194.163.167.32/32  # spam registration — Contabo
+203.189.135.140/32 # spam registration
 
 # IPv6
-2a03:90c0:23::/48  # 12 spam — VPN/Hosting
-2605:6440::/32     # 6 spam — Hosting
+2a03:90c0:23::/48           # 12 spam — VPN/Hosting
+2605:6440::/32              # 6 spam — Hosting
+2402:800::/32               # spam registration
+2001:14bb:a9:c2ce:2a95:b113:4807:b968/128  # spam registration
