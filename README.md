@@ -19,9 +19,9 @@ The IP ranges in `spam-ips.txt` belong to hosting providers, VPN services, and T
 
 ## Origin / Herkunft
 
-Identified by analyzing 400+ spam accounts on [troet.cafe](https://troet.cafe) and [muenchen.social](https://muenchen.social) (since March 2026). The accounts typically promoted casinos, escort services, real estate, crypto, or spread geopolitical propaganda.
+Identified by analyzing 400+ spam accounts on [troet.cafe](https://troet.cafe) (the largest German-speaking Mastodon instance) and [muenchen.social](https://muenchen.social) (since March 2026). The accounts typically promoted casinos, escort services, real estate, crypto, or spread geopolitical propaganda.
 
-Ermittelt durch Analyse von 400+ Spam-Accounts auf [troet.cafe](https://troet.cafe) und [muenchen.social](https://muenchen.social) (seit März 2026). Die Accounts bewarben typischerweise Casinos, Escort-Dienste, Immobilien, Krypto oder verbreiteten geopolitische Propaganda.
+Ermittelt durch Analyse von 400+ Spam-Accounts auf [troet.cafe](https://troet.cafe) (der größten deutschsprachigen Mastodon-Instanz) und [muenchen.social](https://muenchen.social) (seit März 2026). Die Accounts bewarben typischerweise Casinos, Escort-Dienste, Immobilien, Krypto oder verbreiteten geopolitische Propaganda.
 
 ## Usage / Nutzung
 
