@@ -1,13 +1,12 @@
-# Mastodon Spam E-Mail-Domains
-# Kuratiert von troet.cafe & muenchen.social (seit 2026-03)
+# Mastodon Spam Email Domains
+# Curated by troet.cafe & muenchen.social (since 2026-03)
 #
-# Wegwerf-/Spam-Mail-Domains die bei Mastodon-Registrierungen
-# verwendet werden und NICHT in der offiziellen
-# disposable-email-domains Liste (github.com/disposable-email-domains)
-# enthalten sind.
+# Disposable/spam email domains used for Mastodon registrations
+# that are NOT included in the official disposable-email-domains
+# list (github.com/disposable-email-domains).
 #
-# Format: eine Domain pro Zeile, Kommentare mit #
-# Sortiert: alphabetisch
+# Format: one domain per line, comments with #
+# Sorted: alphabetically
 
 1200b.com
 agiuse.com

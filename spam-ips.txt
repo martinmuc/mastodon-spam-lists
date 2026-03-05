@@ -1,29 +1,29 @@
-# Mastodon Spam IP-Ranges
-# Kuratiert von troet.cafe & muenchen.social (seit 2026-03)
+# Mastodon Spam IP Ranges
+# Curated by troet.cafe & muenchen.social (since 2026-03)
 #
-# IP-Ranges und Netze, die wiederholt fuer Spam-Registrierungen
-# auf Mastodon-Instanzen verwendet werden.
+# IP ranges and networks repeatedly used for spam registrations
+# on Mastodon instances.
 #
-# Format: CIDR-Notation, Kommentare mit #
-# Sortiert: nach Haeufigkeit (absteigend)
+# Format: CIDR notation, comments with #
+# Sorted: by frequency (descending)
 
-# Hosting / Datacenter (haeufigste Spam-Quellen)
-165.101.52.0/24    # 26 Spam — Hosting
-165.101.53.0/24    # gleicher Provider
-103.178.30.0/24    # 22 Spam — Hosting (AS)
-202.94.164.0/24    # 18 Spam — Hosting
-160.250.40.0/24    # 12 Spam — Hosting
-107.175.115.0/24   # 10 Spam — Hosting
-103.96.104.0/24    # 10 Spam — Hosting
-103.96.105.0/24    # gleicher Provider
-103.67.64.0/24     # 10 Spam — Hosting
-103.67.65.0/24     # gleicher Provider
-185.253.97.0/24    # 8 Spam — Hosting
-23.106.56.0/24     # 8 Spam — Hosting
-104.223.81.0/24    # 6 Spam — Hosting
-104.223.111.0/24   # gleicher Provider
-103.152.147.0/24   # 6 Spam — Hosting
-169.150.196.0/24   # 6 Spam — Hosting
+# Hosting / Datacenter (most frequent spam sources)
+165.101.52.0/24    # 26 spam accounts — Hosting
+165.101.53.0/24    # same provider
+103.178.30.0/24    # 22 spam — Hosting (AS)
+202.94.164.0/24    # 18 spam — Hosting
+160.250.40.0/24    # 12 spam — Hosting
+107.175.115.0/24   # 10 spam — Hosting
+103.96.104.0/24    # 10 spam — Hosting
+103.96.105.0/24    # same provider
+103.67.64.0/24     # 10 spam — Hosting
+103.67.65.0/24     # same provider
+185.253.97.0/24    # 8 spam — Hosting
+23.106.56.0/24     # 8 spam — Hosting
+104.223.81.0/24    # 6 spam — Hosting
+104.223.111.0/24   # same provider
+103.152.147.0/24   # 6 spam — Hosting
+169.150.196.0/24   # 6 spam — Hosting
 23.94.95.0/24      # Hosting
 169.197.85.0/24    # Hosting
 118.179.44.0/24    # Hosting
@@ -33,14 +33,14 @@
 130.195.212.0/24   # Hosting
 223.204.126.0/24   # Hosting (TH)
 
-# VPN-Provider (Spam-Missbrauch)
-146.70.103.0/24    # 16 Spam — Mullvad VPN
-146.70.108.0/24    # 14 Spam — Mullvad VPN
-37.120.203.0/24    # 8 Spam — M247 VPN/Hosting
+# VPN providers (spam abuse)
+146.70.103.0/24    # 16 spam — Mullvad VPN
+146.70.108.0/24    # 14 spam — Mullvad VPN
+37.120.203.0/24    # 8 spam — M247 VPN/Hosting
 155.94.249.0/24    # VPN/Hosting
 
-# Tor Exit Nodes
-185.220.101.0/24   # Tor Exit Nodes — Propaganda-Bots
+# Tor exit nodes
+185.220.101.0/24   # Tor exit nodes — propaganda bots
 
 # IPv6
 2a03:90c0:23::/48  # 12 Spam — VPN/Hosting
