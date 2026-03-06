@@ -43,6 +43,7 @@
 
 # Tor exit nodes
 185.220.101.0/24   # Tor exit nodes — propaganda bots
+45.138.16.0/24     # Hosting — propaganda bots
 
 # Individual IPs (manually blocked on troet.cafe and muenchen.social)
 14.241.80.137/32   # spam registration
