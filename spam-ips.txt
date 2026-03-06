@@ -34,6 +34,7 @@
 223.204.126.0/24   # Hosting (TH)
 103.23.207.0/24    # Hosting
 182.252.81.0/24    # Hosting
+38.135.25.0/24     # Hosting — multiple spam registrations
 
 # VPN providers (spam abuse)
 146.70.103.0/24    # 16 spam — Mullvad VPN
