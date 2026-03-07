@@ -19,5 +19,6 @@ smtp.oneb.net
 mx.fex.plus
 
 # Smaller clusters (2+ domains each)
+checkccv.info
 in.mail.tm
 tinyhost.shop
