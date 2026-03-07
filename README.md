@@ -8,10 +8,10 @@ Kuratierte Listen von E-Mail-Domains und IP-Ranges, die wiederholt für Spam-Reg
 
 | File | Content | Entries |
 |------|---------|---------|
-| `spam-domains.txt` | Disposable email domains | ~190 |
-| `spam-domains-active.txt` | Active domains only (generated) | varies |
-| `spam-ips.txt` | IP ranges (CIDR) | ~60 |
-| `spam-mx-servers.txt` | Mail servers behind spam domains | 6 |
+| `spam-domains.txt` | Disposable email domains | ~207 |
+| `spam-domains-active.txt` | Active domains only (generated) | ~189 |
+| `spam-ips.txt` | IP ranges (CIDR) | ~72 |
+| `spam-mx-servers.txt` | Mail servers behind spam domains | 7 |
 | `domain-status.md` | DNS status report (generated) | — |
 
 ## Context / Kontext
@@ -20,9 +20,9 @@ The domains in `spam-domains.txt` are **not** included in the well-known [dispos
 
 The IP ranges in `spam-ips.txt` belong to hosting providers, VPN services, and Tor exit nodes that are repeatedly abused for automated spam registrations.
 
-**Key finding:** 128 of 192 spam domains (67%) share the same two MX servers (`mail.wabblywabble.com` and `mail.wallywatts.com`). This means a single operator runs most of the spam email infrastructure. See `spam-mx-servers.txt` for all known spam MX servers — useful for detecting new spam domains before they appear on any blocklist.
+**Key finding:** Many spam domains share the same MX servers (e.g. `mail.wabblywabble.com`, `mail.wallywatts.com`, `tinyhost.shop`). This means a small number of operators run most of the spam email infrastructure. See `spam-mx-servers.txt` for all known spam MX servers — useful for detecting new spam domains before they appear on any blocklist.
 
-**Wichtiger Fund:** 128 von 192 Spam-Domains (67%) nutzen dieselben zwei MX-Server (`mail.wabblywabble.com` und `mail.wallywatts.com`). Das bedeutet: ein einziger Betreiber steckt hinter dem Großteil der Spam-Mail-Infrastruktur. Siehe `spam-mx-servers.txt` für alle bekannten Spam-MX-Server — nützlich um neue Spam-Domains zu erkennen bevor sie auf einer Blockliste stehen.
+**Wichtiger Fund:** Viele Spam-Domains nutzen dieselben MX-Server (z.B. `mail.wabblywabble.com`, `mail.wallywatts.com`, `tinyhost.shop`). Das bedeutet: wenige Betreiber stecken hinter dem Großteil der Spam-Mail-Infrastruktur. Siehe `spam-mx-servers.txt` für alle bekannten Spam-MX-Server — nützlich um neue Spam-Domains zu erkennen bevor sie auf einer Blockliste stehen.
 
 ## Origin / Herkunft
 
