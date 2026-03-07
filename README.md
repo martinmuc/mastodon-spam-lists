@@ -9,8 +9,10 @@ Kuratierte Listen von E-Mail-Domains und IP-Ranges, die wiederholt für Spam-Reg
 | File | Content | Entries |
 |------|---------|---------|
 | `spam-domains.txt` | Disposable email domains | ~190 |
+| `spam-domains-active.txt` | Active domains only (generated) | varies |
 | `spam-ips.txt` | IP ranges (CIDR) | ~60 |
 | `spam-mx-servers.txt` | Mail servers behind spam domains | 6 |
+| `domain-status.md` | DNS status report (generated) | — |
 
 ## Context / Kontext
 
@@ -38,6 +40,17 @@ Pull requests with additional domains/IPs are welcome. Please:
 - Mention the source (e.g. "spam on instance.example")
 - Do not add legitimate mail providers or residential ISP ranges
 - Sort domains alphabetically
+
+## Domain Validation / Domain-Validierung
+
+`validate.sh` checks the DNS status of all domains in `spam-domains.txt` and generates `domain-status.md` (status report) and `spam-domains-active.txt` (active domains only). Inactive domains stay in the main list — they could be reactivated.
+
+`validate.sh` prüft den DNS-Status aller Domains und generiert `domain-status.md` (Status-Report) und `spam-domains-active.txt` (nur aktive Domains). Inaktive Domains bleiben in der Hauptliste — sie könnten reaktiviert werden.
+
+```bash
+./validate.sh              # Check all domains (~1-2 min)
+PARALLEL=20 ./validate.sh  # Faster with more parallel queries
+```
 
 ## Updates
 
