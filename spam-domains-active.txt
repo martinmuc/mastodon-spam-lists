@@ -2,7 +2,7 @@
 # Generated from spam-domains.txt by validate.sh (2026-03-07)
 #
 # Only domains with active DNS (A or MX record).
-# Full list (incl. inactive): spam-domains.txt
+# Full list (incl. inactive): ../lists/spam-domains.txt
 #
 # Format: one domain per line
 # Sorted: alphabetically
@@ -31,6 +31,7 @@ attendness.com
 auslank.com
 avulos.com
 badfist.com
+bangdieukhien.net
 bankrau.com
 birige.com
 bitoini.com
@@ -175,6 +176,7 @@ pbhak.dev
 pckage.com
 pierpaoloagamennone.com
 pongpong.org
+pranceville.com
 protonza.com
 ptiong.com
 qabq.com
