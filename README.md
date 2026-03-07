@@ -41,17 +41,6 @@ Pull requests with additional domains/IPs are welcome. Please:
 - Do not add legitimate mail providers or residential ISP ranges
 - Sort domains alphabetically
 
-## Domain Validation / Domain-Validierung
-
-`validate.sh` checks the DNS status of all domains in `spam-domains.txt` and generates `domain-status.md` (status report) and `spam-domains-active.txt` (active domains only). Inactive domains stay in the main list — they could be reactivated.
-
-`validate.sh` prüft den DNS-Status aller Domains und generiert `domain-status.md` (Status-Report) und `spam-domains-active.txt` (nur aktive Domains). Inaktive Domains bleiben in der Hauptliste — sie könnten reaktiviert werden.
-
-```bash
-./validate.sh              # Check all domains (~1-2 min)
-PARALLEL=20 ./validate.sh  # Faster with more parallel queries
-```
-
 ## Updates
 
 These lists are actively maintained and updated regularly based on ongoing moderation of our instances.
