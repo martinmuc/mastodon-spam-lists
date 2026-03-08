@@ -6,85 +6,82 @@
 #
 # Format: CIDR notation, comments with #
 # Sorted: by frequency (descending)
-
 # Hosting / Datacenter (most frequent spam sources)
-165.101.52.0/24    # 26 spam accounts — Hosting
-165.101.53.0/24    # same provider
+# VPN providers (spam abuse)
+# Tor exit nodes
+# Individual IPs (manually blocked on troet.cafe and muenchen.social)
+# IPv6
+
+103.152.147.0/24   # 6 spam — Hosting
 103.178.30.0/24    # 22 spam — Hosting (AS)
-202.94.164.0/24    # 18 spam — Hosting
-160.250.40.0/24    # 12 spam — Hosting
-107.175.115.0/24   # 10 spam — Hosting
-103.96.104.0/24    # 10 spam — Hosting
-103.96.105.0/24    # same provider
+103.189.218.83/32  # spam registration
+103.23.207.0/24    # Hosting
+103.253.177.0/24   # Hosting
 103.67.64.0/24     # 10 spam — Hosting
 103.67.65.0/24     # same provider
-185.253.97.0/24    # 8 spam — Hosting
-23.106.56.0/24     # 8 spam — Hosting
-104.223.81.0/24    # 6 spam — Hosting
-104.223.111.0/24   # same provider
-103.152.147.0/24   # 6 spam — Hosting
-169.150.196.0/24   # 6 spam — Hosting
-23.94.95.0/24      # Hosting
-169.197.85.0/24    # Hosting
-118.179.44.0/24    # Hosting
-103.253.177.0/24   # Hosting
-154.3.33.0/24      # Hosting (HK)
-112.120.48.0/24    # Hosting (HK)
-130.195.212.0/24   # Hosting
-223.204.126.0/24   # Hosting (TH)
-103.23.207.0/24    # Hosting
-182.252.81.0/24    # Hosting
-38.135.25.0/24     # Hosting — multiple spam registrations
-5.252.22.0/24      # Hosting — WorkTitans (kuzmin/vk.com spam)
-194.26.192.0/24    # Hosting — 1337 Services (spam registrations)
-194.163.182.0/24   # Hosting — Contabo (Yamati/gamening.com spam)
-
-# VPN providers (spam abuse)
-146.70.103.0/24    # 16 spam — Mullvad VPN
-146.70.108.0/24    # 14 spam — Mullvad VPN
-37.120.203.0/24    # 8 spam — M247 VPN/Hosting
-155.94.249.0/24    # VPN/Hosting
-
-# Tor exit nodes
-109.70.100.0/24    # Tor exit — Foundation for Applied Privacy (repeated spam)
-185.129.61.0/24    # Tor exit — TOR-SERVERS2
-185.220.101.0/24   # Tor exit nodes — propaganda bots
-45.138.16.0/24     # Hosting — propaganda bots
-
-# Individual IPs (manually blocked on troet.cafe and muenchen.social)
-14.241.80.137/32   # spam registration
-23.106.249.37/32   # spam registration
-23.154.136.106/32  # spam registration
-27.124.19.58/32    # spam registration
-42.112.181.1/32    # spam registration
-51.89.173.123/32   # spam registration — OVH
-89.169.36.109/32   # spam registration
 103.74.230.54/32   # spam registration
-103.189.218.83/32  # spam registration
+103.96.104.0/24    # 10 spam — Hosting
+103.96.105.0/24    # same provider
 104.223.103.71/32  # spam registration
+104.223.111.0/24   # same provider
+104.223.81.0/24    # 6 spam — Hosting
+107.175.115.0/24   # 10 spam — Hosting
+109.70.100.0/24    # Tor exit — Foundation for Applied Privacy (repeated spam)
+112.120.48.0/24    # Hosting (HK)
 117.217.218.77/32  # spam registration
 118.179.40.215/32  # spam registration
 118.179.40.221/32  # spam registration
+118.179.44.0/24    # Hosting
 118.179.97.201/32  # spam registration
 121.169.46.116/32  # spam registration
 123.136.31.130/32  # spam registration
+130.195.212.0/24   # Hosting
 134.199.159.23/32  # spam registration
+14.241.80.137/32   # spam registration
 143.110.217.153/32 # spam registration — DigitalOcean
+146.70.103.0/24    # 16 spam — Mullvad VPN
+146.70.108.0/24    # 14 spam — Mullvad VPN
+154.3.33.0/24      # Hosting (HK)
+155.94.249.0/24    # VPN/Hosting
+160.250.40.0/24    # 12 spam — Hosting
 161.35.31.237/32   # spam registration — DigitalOcean
+165.101.52.0/24    # 26 spam accounts — Hosting
+165.101.53.0/24    # same provider
+169.150.196.0/24   # 6 spam — Hosting
+169.197.85.0/24    # Hosting
 173.205.82.53/32   # spam registration
 174.138.61.184/32  # spam registration — DigitalOcean
 176.72.93.130/32   # spam registration
 182.160.109.166/32 # spam registration
+182.252.81.0/24    # Hosting
+185.129.61.0/24    # Tor exit — TOR-SERVERS2
+185.220.101.0/24   # Tor exit nodes — propaganda bots
+185.243.218.0/24    # GIGAHOST (NO) — spam registrations muc
+185.253.97.0/24    # 8 spam — Hosting
 186.26.95.249/32   # spam registration
 193.106.248.90/32  # spam registration
 193.108.116.74/32  # spam registration
 193.233.254.7/32   # spam registration
-194.59.248.214/32  # spam registration
 194.163.167.32/32  # spam registration — Contabo
-203.189.135.140/32 # spam registration
-
-# IPv6
-2a03:90c0:23::/48           # 12 spam — VPN/Hosting
-2605:6440::/32              # 6 spam — Hosting
-2402:800::/32               # spam registration
+194.163.182.0/24   # Hosting — Contabo (Yamati/gamening.com spam)
+194.26.192.0/24    # Hosting — 1337 Services (spam registrations)
+194.59.248.214/32  # spam registration
 2001:14bb:a9:c2ce:2a95:b113:4807:b968/128  # spam registration
+202.94.164.0/24    # 18 spam — Hosting
+203.189.135.140/32 # spam registration
+223.204.126.0/24   # Hosting (TH)
+23.106.249.37/32   # spam registration
+23.106.56.0/24     # 8 spam — Hosting
+23.154.136.106/32  # spam registration
+23.94.95.0/24      # Hosting
+2402:800::/32               # spam registration
+2605:6440::/32              # 6 spam — Hosting
+27.124.19.58/32    # spam registration
+2a03:90c0:23::/48           # 12 spam — VPN/Hosting
+37.120.203.0/24    # 8 spam — M247 VPN/Hosting
+38.135.25.0/24     # Hosting — multiple spam registrations
+42.112.181.1/32    # spam registration
+45.138.16.0/24     # Hosting — propaganda bots
+5.252.22.0/24      # Hosting — WorkTitans (kuzmin/vk.com spam)
+51.89.173.123/32   # spam registration — OVH
+89.169.36.109/32   # spam registration
