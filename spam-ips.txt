@@ -85,4 +85,5 @@
 45.84.107.0/24    # R0CKET-CLOUD (EU) — spam registrations troet
 5.252.22.0/24      # Hosting — WorkTitans (kuzmin/vk.com spam)
 51.89.173.123/32   # spam registration — OVH
+80.67.172.0/24    # Hosting — spam registrations muc
 89.169.36.109/32   # spam registration

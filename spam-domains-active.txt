@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-03-08)
+# Generated from spam-domains.txt by validate.sh (2026-03-09)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -9,6 +9,7 @@
 
 1200b.com
 24faw.com
+25kmans.io.vn
 7novels.com
 adios.email
 advarm.com
@@ -41,6 +42,7 @@ buides.com
 bultoc.com
 burangir.com
 calorpg.com
+carlesromani.com
 cerisun.com
 cexch.com
 cgbird.com
@@ -148,6 +150,7 @@ mailto.plus
 mardiek.com
 medevsa.com
 mekuron.com
+membranasecopro.com
 meocon.org
 mokook.com
 moondyal.com
@@ -195,6 +198,8 @@ tasteofriver.com
 tiksofi.uk
 tilontad.com
 tospage.com
+trsstore.net
 ultraz1.io.vn
 vinaemail.com
 work.gd
+zumaroll.com
