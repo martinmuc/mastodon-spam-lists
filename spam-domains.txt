@@ -4,14 +4,15 @@
 # Disposable/spam email domains used for Mastodon registrations
 # that are NOT included in the official disposable-email-domains
 # list (github.com/disposable-email-domains).
+
 #
 # Format: one domain per line, comments with #
 # Sorted: alphabetically
-
 1200b.com
 24faw.com
 25kmans.io.vn
 7novels.com
+acrewgame.com
 adios.email
 advarm.com
 agiuse.com
@@ -24,6 +25,7 @@ amgens.com
 amiralty.com
 ampdial.com
 anlocc.com
+anversa.com.co
 aravites.com
 arqsis.com
 arugy.com
@@ -179,6 +181,7 @@ moondyal.com
 mucate.com
 muhaos.com
 mustaer.com
+myoutdoorprunerkit.com
 nab4.com
 name.ng
 namestal.com
