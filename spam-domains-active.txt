@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-03-09)
+# Generated from spam-domains.txt by validate.sh (2026-03-21)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -10,7 +10,9 @@
 1200b.com
 24faw.com
 25kmans.io.vn
+25kmembers.io.vn
 7novels.com
+acrewgame.com
 adios.email
 advarm.com
 agiuse.com
@@ -23,6 +25,7 @@ amgens.com
 amiralty.com
 ampdial.com
 anlocc.com
+anversa.com.co
 aravites.com
 arqsis.com
 arugy.com
@@ -71,6 +74,8 @@ docsfy.com
 doishy.com
 dolofan.com
 dpcos.com
+dragence.com
+dreamadventure.org
 dretnar.com
 dubokutv.com
 dwakm.com
@@ -78,6 +83,7 @@ easymailer.live
 efpaper.com
 elafans.com
 elecling.com
+elfocoestudio.com
 eligou.com
 elygifts.com
 emailgen.uk
@@ -86,6 +92,7 @@ esyline.com
 ethsms.com
 etramay.com
 evasud.com
+explotadot.com
 fandoe.com
 fentaoba.com
 feriwor.com
@@ -99,6 +106,7 @@ flemist.com
 fogdiver.com
 forcrack.com
 foxroids.com
+freightpat.com
 fthcapital.com
 gamebcs.com
 gamening.com
@@ -114,6 +122,7 @@ happy9toy.com
 helesco.com
 hikuhu.com
 him6.com
+hlkes.com
 hopesx.com
 hosliy.com
 httpsu.com
@@ -157,6 +166,7 @@ moondyal.com
 mucate.com
 muhaos.com
 mustaer.com
+myoutdoorprunerkit.com
 nab4.com
 namestal.com
 naobk.com
@@ -182,6 +192,7 @@ pckage.com
 pierpaoloagamennone.com
 pongpong.org
 pranceville.com
+preventth.com
 protonza.com
 ptiong.com
 qabq.com
@@ -191,12 +202,16 @@ roastic.com
 roratu.com
 ruincoat.com
 rvseice.com
+salonindubai.com
 sepole.com
 shedoesntloveyouanymore.com
 sisterment.com
+sphinx.launders.money
+sweatpopi.com
 tasteofriver.com
 tiksofi.uk
 tilontad.com
+tmail.lt
 tospage.com
 trsstore.net
 ultraz1.io.vn
