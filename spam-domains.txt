@@ -3,20 +3,19 @@
 #
 # Disposable/spam email domains used for Mastodon registrations
 # that are NOT included in the official disposable-email-domains
-# list (github.com/disposable-email-domains).
-#
-# Format: one domain per line, comments with #
-# Sorted: alphabetically
 
 1200b.com
 24faw.com
 25kmans.io.vn
 25kmembers.io.vn
+45kg2gveo3.io.vn
+45kveo.io.vn
 7novels.com
 acrewgame.com
 adios.email
 advarm.com
 agiuse.com
+agmbowie.com
 aixind.com
 alexida.com
 alibto.com
@@ -25,6 +24,7 @@ allwebemails.com
 amgens.com
 amiralty.com
 ampdial.com
+angelagarner.net
 anlocc.com
 anversa.com.co
 aravites.com
@@ -66,6 +66,7 @@ cotigz.com
 cristout.com
 cronack.com
 cucadas.com
+dandjstudios.net
 daredy.com
 dash.dino.icu
 datehype.com
@@ -98,6 +99,7 @@ ethsms.com
 etramay.com
 evasud.com
 explotadot.com
+fabaos.com
 fandoe.com
 fentaoba.com
 feriwor.com
@@ -140,6 +142,7 @@ hutov.com
 hutudns.com
 icousd.com
 icubik.com
+idconcepts.net
 imfaya.com
 inglosh.com
 insfou.com
@@ -152,10 +155,12 @@ kaoing.com
 keecs.com
 keevle.com
 ket-qua.org
+keybis.net
 kimasoft.com
 kissgy.com
 kolinanok.it.com
 lawior.com
+leavale.net
 leetmail.co
 lhory.com
 liioprmail.ru
@@ -166,9 +171,9 @@ lpefuho.com
 lxheir.com
 macho3.com
 magpit.com
+mail-hosting.co
 mailasrvs.pw
 mailbox.in.ua
-mail-hosting.co
 mailmagnet.co
 mailpro.fun
 mailto.plus
@@ -193,6 +198,7 @@ ncien.com
 noidem.com
 noihse.com
 nucato.com
+numberth.com
 numllery.com
 ofacer.com
 ohiotruckrepair.net
@@ -226,7 +232,9 @@ shedoesntloveyouanymore.com
 sisterment.com
 sphinx.launders.money
 sweatpopi.com
+tamthomca.click
 tasteofriver.com
+therussellgroupnevada.com
 tiksofi.uk
 tilontad.com
 tmail.lt
@@ -236,4 +244,5 @@ ultraz1.io.vn
 vinaemail.com
 walrage.com
 work.gd
+yopmail.com
 zumaroll.com
