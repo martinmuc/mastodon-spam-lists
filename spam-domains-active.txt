@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-03-21)
+# Generated from spam-domains.txt by validate.sh (2026-03-25)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -135,7 +135,6 @@ insfou.com
 ishense.com
 isorax.com
 ixunbo.com
-joharlaw.com
 juhxs.com
 kaoing.com
 keecs.com
@@ -147,7 +146,6 @@ kolinanok.it.com
 lawior.com
 lhory.com
 linxues.com
-loan2home.net
 lpefuho.com
 lxheir.com
 macho3.com
@@ -177,7 +175,6 @@ noihse.com
 nucato.com
 numllery.com
 ofacer.com
-ohiotruckrepair.net
 okexbit.com
 okiae.com
 onestiqu.com
@@ -204,7 +201,6 @@ ruincoat.com
 rvseice.com
 salonindubai.com
 sepole.com
-shedoesntloveyouanymore.com
 sisterment.com
 sphinx.launders.money
 sweatpopi.com
@@ -213,8 +209,6 @@ tiksofi.uk
 tilontad.com
 tmail.lt
 tospage.com
-trsstore.net
 ultraz1.io.vn
 vinaemail.com
-work.gd
 zumaroll.com

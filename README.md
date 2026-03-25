@@ -41,6 +41,36 @@ Pull requests with additional domains/IPs are welcome. Please:
 - Do not add legitimate mail providers or residential ISP ranges
 - Sort domains alphabetically
 
+## Inclusion Criteria / Aufnahmekriterien
+
+A domain is added to `spam-domains.txt` when **at least 2** of the following criteria are met:
+
+1. **Multiple occurrences**: Used by ≥2 different spam accounts (across instances)
+2. **Known spam MX**: Domain uses a mail server already linked to other spam domains
+3. **Self-hosted mail**: Domain runs its own mail server (mail.domain / mx.domain)
+4. **Random email pattern**: Email local part contains random digit patterns (e.g. rohoje7445@)
+5. **No website**: Domain has no A record / no web presence
+
+**Instant inclusion** (single criterion sufficient):
+- Domain uses a mail server listed in `spam-mx-servers.txt`
+
+**Never included**: Legitimate mail providers (Gmail, ProtonMail, GMX, Outlook, etc.)
+
+---
+
+Eine Domain wird in `spam-domains.txt` aufgenommen wenn **mindestens 2** der folgenden Kriterien erfüllt sind:
+
+1. **Mehrfach aufgetreten**: Von ≥2 verschiedenen Spam-Accounts genutzt (instanzübergreifend)
+2. **Bekannter Spam-MX**: Domain nutzt einen Mailserver der schon mit anderen Spam-Domains verknüpft ist
+3. **Eigener Mailserver**: Domain betreibt eigenen MX (mail.domain / mx.domain)
+4. **Random-E-Mail-Muster**: Lokalteil der E-Mail enthält zufällige Ziffernmuster (z.B. rohoje7445@)
+5. **Keine Website**: Domain hat keinen A-Record / keine Webpräsenz
+
+**Sofortige Aufnahme** (ein Kriterium reicht):
+- Domain nutzt einen Mailserver aus `spam-mx-servers.txt`
+
+**Nie aufgenommen**: Legitime Mail-Provider (Gmail, ProtonMail, GMX, Outlook, etc.)
+
 ## Updates
 
 These lists are actively maintained and updated regularly based on ongoing moderation of our instances.
