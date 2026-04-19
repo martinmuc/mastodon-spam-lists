@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-04-17)
+# Generated from spam-domains.txt by validate.sh (2026-04-19)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -136,6 +136,7 @@ gyknife.com
 gzpw.ccpro.click
 haotuwu.com
 happy9toy.com
+hehehehe.io.vn
 helesco.com
 hikuhu.com
 him6.com
@@ -251,10 +252,12 @@ tasteofriver.com
 therussellgroupnevada.com
 tiksofi.uk
 tilontad.com
+tilvex.click
 tmail.lt
 tospage.com
 trsstore.net
 ultraz1.io.vn
+veo325kcredit.io.vn
 vinaemail.com
 w5vd.minhaishop.click
 wnbaldwy.com
