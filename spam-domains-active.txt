@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-04-19)
+# Generated from spam-domains.txt by validate.sh (2026-04-26)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -14,6 +14,7 @@
 45kg2gveo3.io.vn
 45kveo.io.vn
 7novels.com
+99113377.xyz
 acrewgame.com
 adios.email
 advarm.com
@@ -51,6 +52,8 @@ bultoc.com
 burangir.com
 calorpg.com
 carlesromani.com
+cc28.headcc.io.vn
+cc40.headcc.io.vn
 cerisun.com
 cexch.com
 cgbird.com
@@ -129,6 +132,7 @@ gavrom.com
 generator.email
 godaddybd.com
 gopicta.com
+graphicedge.click
 graphiclean.site
 gusronk.com
 gxuzi.com
@@ -156,9 +160,11 @@ insfou.com
 ishense.com
 isorax.com
 ixunbo.com
+jlpevents.co.uk
 joharlaw.com
 jsncos.com
 juhxs.com
+k39shop.store
 kaoing.com
 keecs.com
 keevle.com
@@ -167,6 +173,7 @@ keybis.net
 kimasoft.com
 kissgy.com
 kolinanok.it.com
+ktw3999.xyz
 lawior.com
 leavale.net
 lefruit-dev.work
@@ -240,6 +247,7 @@ salonindubai.com
 sasukiez.shop
 sepole.com
 shedoesntloveyouanymore.com
+shopempva11.com
 sisterment.com
 skyforte25k.io.vn
 smkanba.com
@@ -249,6 +257,7 @@ sweatpopi.com
 tamthomca.click
 tamttts.com
 tasteofriver.com
+thaitudang.xyz
 therussellgroupnevada.com
 tiksofi.uk
 tilontad.com
