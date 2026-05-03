@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-04-26)
+# Generated from spam-domains.txt by validate.sh (2026-05-03)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -16,7 +16,6 @@
 7novels.com
 99113377.xyz
 acrewgame.com
-adios.email
 advarm.com
 agiuse.com
 agmbowie.com
@@ -50,6 +49,7 @@ boyaga.com
 buides.com
 bultoc.com
 burangir.com
+bwmyga.com
 calorpg.com
 carlesromani.com
 cc28.headcc.io.vn
@@ -149,6 +149,7 @@ hopesx.com
 hosliy.com
 hotboyckdh.shop
 httpsu.com
+huongvemientrung.store
 hutov.com
 hutudns.com
 icousd.com
@@ -179,6 +180,7 @@ leavale.net
 lefruit-dev.work
 lhory.com
 linxues.com
+lnwtt.com
 loan2home.net
 lowprizo.com
 lum25kcredit.io.vn
@@ -232,7 +234,6 @@ pckage.com
 pierpaoloagamennone.com
 pongpong.org
 pranceville.com
-preventth.com
 pro27.njesz.com
 protonza.com
 ptiong.com
@@ -268,9 +269,11 @@ trsstore.net
 ultraz1.io.vn
 veo325kcredit.io.vn
 vinaemail.com
+voryxen.com
 w5vd.minhaishop.click
 wnbaldwy.com
 work.gd
 xrvw.minhaishop.click
 yopmail.com
+yswj.autokey247.com
 zumaroll.com
