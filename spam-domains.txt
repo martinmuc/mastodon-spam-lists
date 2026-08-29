@@ -7,6 +7,7 @@
 #
 # Format: one domain per line, comments with #
 # Sorted: alphabetically
+
 008rkqe.jejes.de
 1200b.com
 24faw.com
@@ -27,6 +28,7 @@ aa.gamess.bot.cd
 aa.throwaway.dns.army
 acrewgame.com
 adios.email
+adubadu.io.vn
 advarm.com
 aeerso.space
 aerionx25k.io.vn
@@ -46,6 +48,7 @@ amgens.com
 amiralty.com
 ampdial.com
 angelagarner.net
+anglis.io.vn
 ankniwn.com
 anlocc.com
 anversa.com.co
@@ -70,6 +73,8 @@ bbmail.store
 bespokehaircare.co.uk
 birige.com
 bitoini.com
+blasis.io.vn
+blema.io.vn
 bnyhr.us
 bomnet.net
 boom.publicvm.com
@@ -344,6 +349,7 @@ mucate.com
 muhaos.com
 mustaer.com
 myoutdoorprunerkit.com
+mytempmail.org
 nab4.com
 name.ng
 namestal.com
