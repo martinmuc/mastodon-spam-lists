@@ -529,3 +529,23 @@ zolmiu.cfd
 zumaroll.com
 zz.tinyhost-temp.v6.army
 zzzzzzzzzzzzzz-3294.dynv6.net
+
+# Disposable mail services, found via MX lookup of registered accounts
+24hinbox.com
+albarulo.com
+cosaxu.com
+dabeixin.com
+edinel.com
+elahan.com
+eosbuzz.com
+gitated.com
+gufum.com
+icesilo.com
+mitico.org
+morxin.com
+notedns.com
+nrlord.com
+nubotel.com
+operades.com
+rover.info
+yogirt.com
