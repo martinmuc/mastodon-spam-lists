@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-08-29)
+# Generated from spam-domains.txt by validate.sh (2026-08-30)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -165,6 +165,7 @@ feriwor.com
 fermiro.com
 fexbox.org
 fexpost.com
+ff.gamess.bot.cd
 finfave.com
 fintehs.com
 fixwap.com
@@ -181,6 +182,7 @@ gamadaiz.shop
 gamebcs.com
 gamening.com
 gamerai.shop
+gashoainam.io.vn
 gavrom.com
 generator.email
 getgptcode.com
@@ -207,6 +209,7 @@ haleloya.site
 hanoinet.io.vn
 haotuwu.com
 happy9toy.com
+hdhfhr.tempfree.v6.rocks
 helesco.com
 hh.tinyhost-temp.v6.army
 highapes.run.place
@@ -230,7 +233,6 @@ huytuyen.site
 icousd.com
 icubik.com
 idconcepts.net
-ii.tempfree.v6.rocks
 imfaya.com
 infix1.io.vn
 inglosh.com
@@ -272,7 +274,7 @@ legendaryseller.com
 leruvo.icu
 lhory.com
 linxues.com
-liveforms.org
+ll.throwaway.v6.navy
 lnwtt.com
 loan2home.net
 lonaxter.site
@@ -320,6 +322,8 @@ netmon.ir
 nexafilm.com
 nexorabio.pro.vn
 ni3i.ccpro.click
+nn.throwaway.v6.army
+nn.throwaway.v6.rocks
 noidem.com
 noihse.com
 norvico.site
@@ -369,6 +373,7 @@ psai.run.place
 ptiong.com
 pzek9y1.jejes.de
 qabq.com
+qq.hostpapa.dynv6.net
 ravavo.bond
 reclameaqui.services
 regacc.site
@@ -444,6 +449,7 @@ visualnest.work
 voryxen.com
 vsjdc7k.jejes.de
 vssyoutube.com
+vv.throwaway.v6.navy
 warrity25k.io.vn
 work.gd
 wuoting.com
