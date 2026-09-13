@@ -9,7 +9,7 @@ Kuratierte Listen von E-Mail-Domains und IP-Ranges, die wiederholt für Spam-Reg
 | File | Content | Entries |
 |------|---------|---------|
 | `spam-domains.txt` | Disposable email domains | 743 |
-| `spam-domains-active.txt` | Active domains only (generated) | 674 |
+| `spam-domains-active.txt` | Active domains only (generated) | 666 |
 | `spam-ips.txt` | IP ranges (CIDR) | 75 |
 | `spam-mx-servers.txt` | Mail servers behind spam domains | 10 |
 | `domain-status.md` | DNS status report (generated) | — |

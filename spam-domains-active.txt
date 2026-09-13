@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-09-06)
+# Generated from spam-domains.txt by validate.sh (2026-09-13)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -23,13 +23,10 @@
 7novels.com
 8nzqulf.jejes.de
 99113377.xyz
-aa.gamess.bot.cd
-aa.throwaway.dns.army
 abaot.com
 abatido.com
 acedby.com
 advarm.com
-aeerso.space
 aerionx25k.io.vn
 agaseo.com
 agenra.com
@@ -112,7 +109,6 @@ boom.publicvm.com
 bosakun.com
 boyaga.com
 btcours.com
-buddyfly.top
 bugfoo.com
 buides.com
 bulatox.com
@@ -188,7 +184,6 @@ datprovn.io.vn
 daupload.com
 dautubds.io.vn
 dawhe.com
-dd.hostpapa.dynv6.net
 decodewp.com
 deenur.com
 deepora.store
@@ -452,7 +447,6 @@ mailmagnet.co
 mailpro.fun
 mailto.plus
 mailtowin.com
-mailx.click
 mainmile.com
 mardiek.com
 mariascloset.org
@@ -578,7 +572,6 @@ psai.run.place
 ptiong.com
 pzek9y1.jejes.de
 qabq.com
-qq.hostpapa.dynv6.net
 quipas.com
 ravavo.bond
 reclameaqui.services
@@ -599,7 +592,6 @@ sasukiez.shop
 senvas.me
 sepole.com
 shagster.net
-shahidrazi.online
 shopempva11.com
 shopld.linkpc.net
 siessed.com
@@ -680,4 +672,4 @@ yopmail.com
 zenbada.com
 zolmiu.cfd
 zumaroll.com
-zz.tinyhost-temp.v6.army
+zzzzzzzzzzzzzz-3294.dynv6.net
