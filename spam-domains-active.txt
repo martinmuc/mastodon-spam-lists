@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-09-13)
+# Generated from spam-domains.txt by validate.sh (2026-09-20)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -23,6 +23,7 @@
 7novels.com
 8nzqulf.jejes.de
 99113377.xyz
+aa.gamess.bot.cd
 abaot.com
 abatido.com
 acedby.com
@@ -116,7 +117,6 @@ bultoc.com
 burangir.com
 bwmyga.com
 byconf.com
-byth57d.online
 cadolls.com
 calorpg.com
 camjoint.com
@@ -221,6 +221,7 @@ dyur1.xshop.bond
 easymailer.live
 eckpcin.giize.com
 edinel.com
+ee.throwaway.v6.rocks
 efpaper.com
 ejp8.ccpro.click
 elafans.com
@@ -275,6 +276,7 @@ forcrack.com
 forge45k.io.vn
 foxroids.com
 fpxnet.com
+freightpat.com
 frisbook.com
 fthcapital.com
 fuasha.com
@@ -320,11 +322,13 @@ haizail.com
 halamaridfcfs.site
 halbov.com
 haleloya.site
+hanghai232.shop
 hanoinet.io.vn
 haotuwu.com
 happy9toy.com
 harcity.com
 hartaria.com
+hdhfhr.tempfree.v6.rocks
 helesco.com
 hiepth.com
 highapes.run.place
@@ -356,6 +360,7 @@ icubik.com
 idconcepts.net
 idoidraw.com
 idwager.com
+ii.tempfree.v6.rocks
 ikowat.com
 im5z.com
 imfaya.com
@@ -502,6 +507,7 @@ nexorabio.pro.vn
 nexxterp.com
 nhmvn.com
 ni3i.ccpro.click
+nn.throwaway.v6.rocks
 noidem.com
 noihse.com
 nomrista.com
@@ -661,10 +667,10 @@ voryxen.com
 vsjdc7k.jejes.de
 vssyoutube.com
 warrity25k.io.vn
+wnbaldwy.com
 work.gd
 wuoting.com
 xcucngon.site
-yellofdf2.click
 yeummo.io.vn
 yogirt.com
 yomail.info
@@ -672,4 +678,5 @@ yopmail.com
 zenbada.com
 zolmiu.cfd
 zumaroll.com
+zz.tinyhost-temp.v6.army
 zzzzzzzzzzzzzz-3294.dynv6.net
