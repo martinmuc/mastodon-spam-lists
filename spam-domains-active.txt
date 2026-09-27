@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-09-20)
+# Generated from spam-domains.txt by validate.sh (2026-09-27)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -23,7 +23,6 @@
 7novels.com
 8nzqulf.jejes.de
 99113377.xyz
-aa.gamess.bot.cd
 abaot.com
 abatido.com
 acedby.com
@@ -117,6 +116,7 @@ bultoc.com
 burangir.com
 bwmyga.com
 byconf.com
+byth57d.online
 cadolls.com
 calorpg.com
 camjoint.com
@@ -128,6 +128,7 @@ cashbn.com
 cavoyar.com
 cc28.headcc.io.vn
 cc40.headcc.io.vn
+cc.throwaway.dynv6.net
 cerisun.com
 cexch.com
 cgbird.com
@@ -184,6 +185,7 @@ datprovn.io.vn
 daupload.com
 dautubds.io.vn
 dawhe.com
+dd.hostpapa.dynv6.net
 decodewp.com
 deenur.com
 deepora.store
@@ -221,7 +223,6 @@ dyur1.xshop.bond
 easymailer.live
 eckpcin.giize.com
 edinel.com
-ee.throwaway.v6.rocks
 efpaper.com
 ejp8.ccpro.click
 elafans.com
@@ -507,7 +508,6 @@ nexorabio.pro.vn
 nexxterp.com
 nhmvn.com
 ni3i.ccpro.click
-nn.throwaway.v6.rocks
 noidem.com
 noihse.com
 nomrista.com
@@ -644,6 +644,7 @@ triots.com
 trsstore.net
 trustbro.us
 trustdomainvn.us
+tt.throwaway.v6.army
 tuyenchau.click
 tuyenchau.online
 tuyenhuy.site
@@ -675,6 +676,7 @@ yeummo.io.vn
 yogirt.com
 yomail.info
 yopmail.com
+yy.gamess.bot.cd
 zenbada.com
 zolmiu.cfd
 zumaroll.com
