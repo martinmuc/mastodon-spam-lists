@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-09-27)
+# Generated from spam-domains.txt by validate.sh (2026-10-04)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -16,6 +16,7 @@
 25kmans.io.vn
 25kmembers.io.vn
 25kselll.io.vn
+25kveo.io.vn
 2mail.co
 45kg2gveo3.io.vn
 45kveo3.io.vn
@@ -23,6 +24,8 @@
 7novels.com
 8nzqulf.jejes.de
 99113377.xyz
+aa.gamess.bot.cd
+aa.throwaway.dns.army
 abaot.com
 abatido.com
 acedby.com
@@ -53,7 +56,6 @@ amiralty.com
 ampdial.com
 ancewa.com
 andinews.com
-angelagarner.net
 angewy.com
 ankniwn.com
 anlocc.com
@@ -103,7 +105,6 @@ bitflirt.com
 bitoini.com
 bitonc.com
 blaxion.com
-bnyhr.us
 bomnet.net
 boom.publicvm.com
 bosakun.com
@@ -116,7 +117,6 @@ bultoc.com
 burangir.com
 bwmyga.com
 byconf.com
-byth57d.online
 cadolls.com
 calorpg.com
 camjoint.com
@@ -176,7 +176,6 @@ d3gf.de
 dabeixin.com
 dailynove.com
 dailynutria.com
-dandjstudios.net
 dash.dino.icu
 datehype.com
 datingel.com
@@ -185,7 +184,7 @@ datprovn.io.vn
 daupload.com
 dautubds.io.vn
 dawhe.com
-dd.hostpapa.dynv6.net
+dd.throwaway.dynv6.net
 decodewp.com
 deenur.com
 deepora.store
@@ -220,6 +219,7 @@ duckyoursick.com
 dwakm.com
 dyur1.xclone.asia
 dyur1.xshop.bond
+dyur2.xclone.asia
 easymailer.live
 eckpcin.giize.com
 edinel.com
@@ -228,6 +228,7 @@ ejp8.ccpro.click
 elafans.com
 elahan.com
 elecling.com
+elfocoestudio.com
 eligou.com
 elixirsd.com
 elobits.com
@@ -235,6 +236,7 @@ eluxeer.com
 elygifts.com
 emailgen.uk
 emailkp.com
+empva11.com
 empva11.io.vn
 empva1.com
 empva1.io.vn
@@ -266,6 +268,7 @@ feriwor.com
 fermiro.com
 fexbox.org
 fexpost.com
+ff.gamess.bot.cd
 finfave.com
 fintehs.com
 fixwap.com
@@ -329,7 +332,6 @@ haotuwu.com
 happy9toy.com
 harcity.com
 hartaria.com
-hdhfhr.tempfree.v6.rocks
 helesco.com
 hiepth.com
 highapes.run.place
@@ -358,7 +360,6 @@ iaciu.com
 icesilo.com
 icousd.com
 icubik.com
-idconcepts.net
 idoidraw.com
 idwager.com
 ii.tempfree.v6.rocks
@@ -404,7 +405,6 @@ keevle.com
 kelenson.com
 kernuo.com
 ket-qua.org
-keybis.net
 khaxan.com
 kimasoft.com
 kimdyn.com
@@ -425,7 +425,6 @@ lanipe.com
 lassora.com
 laulund.info
 lawior.com
-leavale.net
 lefruit-dev.work
 legendaryseller.com
 leruvo.icu
@@ -438,7 +437,6 @@ lineacr.com
 linxues.com
 liveforms.org
 lnwtt.com
-loan2home.net
 lofiey.com
 lonaxter.site
 lowprizo.com
@@ -529,7 +527,6 @@ nyspring.com
 occept.com
 ofacer.com
 ofular.com
-ohiotruckrepair.net
 okcdeals.com
 okexbit.com
 okiae.com
@@ -578,6 +575,7 @@ psai.run.place
 ptiong.com
 pzek9y1.jejes.de
 qabq.com
+qq.throwaway.v6.rocks
 quipas.com
 ravavo.bond
 reclameaqui.services
@@ -641,7 +639,6 @@ tospage.com
 trandigabapoe.shop
 trazeco.com
 triots.com
-trsstore.net
 trustbro.us
 trustdomainvn.us
 tt.throwaway.v6.army
@@ -664,10 +661,12 @@ vinhdo.shop
 visitedity.com
 visualnest.work
 visuals.linkpc.net
+voerpemww.click
 voryxen.com
 vsjdc7k.jejes.de
 vssyoutube.com
 warrity25k.io.vn
+wecanmakehit.win
 wnbaldwy.com
 work.gd
 wuoting.com
@@ -676,9 +675,7 @@ yeummo.io.vn
 yogirt.com
 yomail.info
 yopmail.com
-yy.gamess.bot.cd
 zenbada.com
 zolmiu.cfd
 zumaroll.com
-zz.tinyhost-temp.v6.army
 zzzzzzzzzzzzzz-3294.dynv6.net

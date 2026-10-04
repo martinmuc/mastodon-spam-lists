@@ -25,3 +25,4 @@ tinyhost.shop
 emailfake.com
 tm.xuanlich.com
 mail.gufum.com
+communications
