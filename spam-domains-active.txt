@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-10-04)
+# Generated from spam-domains.txt by validate.sh (2026-10-11)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -18,14 +18,14 @@
 25kselll.io.vn
 25kveo.io.vn
 2mail.co
+2xp5.dung2tb.io.vn
 45kg2gveo3.io.vn
 45kveo3.io.vn
 45kveo.io.vn
+5qp5.dung2tb.io.vn
 7novels.com
 8nzqulf.jejes.de
 99113377.xyz
-aa.gamess.bot.cd
-aa.throwaway.dns.army
 abaot.com
 abatido.com
 acedby.com
@@ -37,6 +37,8 @@ agiuse.com
 agmbowie.com
 ai46boh.jejes.de
 aiaccount.click
+aiclit.asia
+aidesigner.2bd.net
 aikunkun.com
 ainbz.com
 aisupply.click
@@ -128,7 +130,6 @@ cashbn.com
 cavoyar.com
 cc28.headcc.io.vn
 cc40.headcc.io.vn
-cc.throwaway.dynv6.net
 cerisun.com
 cexch.com
 cgbird.com
@@ -184,7 +185,6 @@ datprovn.io.vn
 daupload.com
 dautubds.io.vn
 dawhe.com
-dd.throwaway.dynv6.net
 decodewp.com
 deenur.com
 deepora.store
@@ -192,6 +192,7 @@ deitada.com
 delaeb.com
 devdigs.com
 devthien.io.vn
+digial.jo3.org
 dinlaan.site
 djkux.com
 djpich.com
@@ -217,9 +218,7 @@ dropmail.me
 dubokutv.com
 duckyoursick.com
 dwakm.com
-dyur1.xclone.asia
 dyur1.xshop.bond
-dyur2.xclone.asia
 easymailer.live
 eckpcin.giize.com
 edinel.com
@@ -228,7 +227,6 @@ ejp8.ccpro.click
 elafans.com
 elahan.com
 elecling.com
-elfocoestudio.com
 eligou.com
 elixirsd.com
 elobits.com
@@ -268,7 +266,6 @@ feriwor.com
 fermiro.com
 fexbox.org
 fexpost.com
-ff.gamess.bot.cd
 finfave.com
 fintehs.com
 fixwap.com
@@ -362,7 +359,6 @@ icousd.com
 icubik.com
 idoidraw.com
 idwager.com
-ii.tempfree.v6.rocks
 ikowat.com
 im5z.com
 imfaya.com
@@ -573,9 +569,9 @@ protonza.com
 provko.com
 psai.run.place
 ptiong.com
+pvnmax.space
 pzek9y1.jejes.de
 qabq.com
-qq.throwaway.v6.rocks
 quipas.com
 ravavo.bond
 reclameaqui.services
@@ -631,6 +627,7 @@ tiksofi.uk
 tilontad.com
 tilvex.click
 titangamezz.com
+tl92.dung2tb.io.vn
 tmail.lt
 toan.triennguyen.com
 toan.trithuc.info
@@ -641,10 +638,10 @@ trazeco.com
 triots.com
 trustbro.us
 trustdomainvn.us
-tt.throwaway.v6.army
 tuyenchau.click
 tuyenchau.online
 tuyenhuy.site
+ultralux.io.vn
 ultraz1.io.vn
 unik.it.com
 usrl71x.camdvr.org
@@ -670,6 +667,7 @@ wecanmakehit.win
 wnbaldwy.com
 work.gd
 wuoting.com
+x2ge.dung2tb.io.vn
 xcucngon.site
 yeummo.io.vn
 yogirt.com
@@ -678,4 +676,3 @@ yopmail.com
 zenbada.com
 zolmiu.cfd
 zumaroll.com
-zzzzzzzzzzzzzz-3294.dynv6.net

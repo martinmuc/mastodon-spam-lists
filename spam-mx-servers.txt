@@ -26,3 +26,4 @@ emailfake.com
 tm.xuanlich.com
 mail.gufum.com
 communications
+smtp.google.com
