@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-10-11)
+# Generated from spam-domains.txt by validate.sh (2026-10-18)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -26,6 +26,8 @@
 7novels.com
 8nzqulf.jejes.de
 99113377.xyz
+aa.gamess.bot.cd
+aa.throwaway.dns.army
 abaot.com
 abatido.com
 acedby.com
@@ -73,6 +75,7 @@ aravites.com
 arqsis.com
 arugy.com
 asaption.com
+asia-hq.jo3.org
 asurad.com
 atebin.com
 attendness.com
@@ -119,6 +122,7 @@ bultoc.com
 burangir.com
 bwmyga.com
 byconf.com
+byth57d.online
 cadolls.com
 calorpg.com
 camjoint.com
@@ -130,6 +134,8 @@ cashbn.com
 cavoyar.com
 cc28.headcc.io.vn
 cc40.headcc.io.vn
+cc.throwaway.dynv6.net
+cc.tinyhost-temp.v6.army
 cerisun.com
 cexch.com
 cgbird.com
@@ -185,6 +191,8 @@ datprovn.io.vn
 daupload.com
 dautubds.io.vn
 dawhe.com
+dd.hostpapa.dynv6.net
+dd.throwaway.dynv6.net
 decodewp.com
 deenur.com
 deepora.store
@@ -193,6 +201,7 @@ delaeb.com
 devdigs.com
 devthien.io.vn
 digial.jo3.org
+digimaster.bond
 dinlaan.site
 djkux.com
 djpich.com
@@ -222,6 +231,7 @@ dyur1.xshop.bond
 easymailer.live
 eckpcin.giize.com
 edinel.com
+ee.throwaway.v6.rocks
 efpaper.com
 ejp8.ccpro.click
 elafans.com
@@ -266,6 +276,7 @@ feriwor.com
 fermiro.com
 fexbox.org
 fexpost.com
+ff.gamess.bot.cd
 finfave.com
 fintehs.com
 fixwap.com
@@ -276,6 +287,7 @@ fogdiver.com
 forcrack.com
 forge45k.io.vn
 foxroids.com
+fpt-student-support.store
 fpxnet.com
 freightpat.com
 frisbook.com
@@ -329,7 +341,9 @@ haotuwu.com
 happy9toy.com
 harcity.com
 hartaria.com
+hdhfhr.tempfree.v6.rocks
 helesco.com
+hh.tinyhost-temp.v6.army
 hiepth.com
 highapes.run.place
 hikuhu.com
@@ -345,7 +359,6 @@ hotrokh.com
 hta.publicvm.com
 httpsu.com
 hubopss.com
-hug6roltcw.newmano.store
 huongvemientrung.store
 hutathuww.org
 hutov.com
@@ -359,6 +372,7 @@ icousd.com
 icubik.com
 idoidraw.com
 idwager.com
+ii.tempfree.v6.rocks
 ikowat.com
 im5z.com
 imfaya.com
@@ -432,6 +446,7 @@ limtu.com
 lineacr.com
 linxues.com
 liveforms.org
+ll.throwaway.v6.navy
 lnwtt.com
 lofiey.com
 lonaxter.site
@@ -457,6 +472,7 @@ meocon.org
 merotx.com
 merumart.com
 messibucu.click
+metajaya.biz.id
 migonom.com
 minh2.idhmz.io.vn
 minitts.net
@@ -499,9 +515,12 @@ netmon.ir
 netoiu.com
 nexafilm.com
 nexorabio.pro.vn
+nexosphere.lifestyle
 nexxterp.com
 nhmvn.com
 ni3i.ccpro.click
+nn.throwaway.v6.army
+nn.throwaway.v6.rocks
 noidem.com
 noihse.com
 nomrista.com
@@ -572,6 +591,8 @@ ptiong.com
 pvnmax.space
 pzek9y1.jejes.de
 qabq.com
+qq.hostpapa.dynv6.net
+qq.throwaway.v6.rocks
 quipas.com
 ravavo.bond
 reclameaqui.services
@@ -592,6 +613,7 @@ sasukiez.shop
 senvas.me
 sepole.com
 shagster.net
+shahidrazi.online
 shopempva11.com
 shopld.linkpc.net
 siessed.com
@@ -638,6 +660,7 @@ trazeco.com
 triots.com
 trustbro.us
 trustdomainvn.us
+tt.throwaway.v6.army
 tuyenchau.click
 tuyenchau.online
 tuyenhuy.site
@@ -662,6 +685,7 @@ voerpemww.click
 voryxen.com
 vsjdc7k.jejes.de
 vssyoutube.com
+vv.throwaway.v6.navy
 warrity25k.io.vn
 wecanmakehit.win
 wnbaldwy.com
@@ -669,10 +693,14 @@ work.gd
 wuoting.com
 x2ge.dung2tb.io.vn
 xcucngon.site
+xx.ados.bbroot.com
 yeummo.io.vn
 yogirt.com
 yomail.info
 yopmail.com
+yy.gamess.bot.cd
 zenbada.com
 zolmiu.cfd
 zumaroll.com
+zz.tinyhost-temp.v6.army
+zzzzzzzzzzzzzz-3294.dynv6.net
