@@ -30,6 +30,10 @@ Identified by analyzing 400+ spam accounts on [troet.cafe](https://troet.cafe) (
 
 Ermittelt durch Analyse von 400+ Spam-Accounts auf [troet.cafe](https://troet.cafe) (der größten deutschsprachigen Mastodon-Instanz) und [muenchen.social](https://muenchen.social) (seit März 2026). Die Accounts bewarben typischerweise Casinos, Escort-Dienste, Immobilien, Krypto oder verbreiteten geopolitische Propaganda.
 
+More background on how we moderate and run the instances is on the operator's blog, for example [how an invite chain got 69 automated accounts past our sign-up review](https://www.martinmuc.de/blog/invite-chain-back-door/).
+
+Hintergründe zu Moderation und Betrieb stehen im Blog des Betreibers, zum Beispiel [wie diese Listen entstanden sind](https://www.martinmuc.de/blog/mastodon-spam-listen/) und [was die Instanzen kosten](https://www.martinmuc.de/transparenz/).
+
 ## Usage / Nutzung
 
 Plain text files — one domain/range per line, `#` comments. Easy to integrate into your own moderation scripts or blocklists.
