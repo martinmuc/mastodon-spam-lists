@@ -75,6 +75,32 @@ Eine Domain wird in `spam-domains.txt` aufgenommen wenn **mindestens 2** der fol
 
 **Nie aufgenommen**: Legitime Mail-Provider (Gmail, ProtonMail, GMX, Outlook, etc.)
 
+## Known Bot Patterns / Bekannte Bot-Muster
+
+Some sign-up waves cannot be stopped with domain or IP lists, because they use big mail providers and rotating residential IPs. They can be recognised by their pattern instead.
+
+**"Deliverability probe" bot** (since September 2026, large wave again on 21/22 October 2026, more than 80 sign-ups in one day on troet.cafe):
+
+- Username: `bp` followed by 16 hex characters, e.g. `bp5bee20427df4517e`
+- Sign-up reason, word for word: `Automated protocol deliverability probe`
+- Email: mostly icloud.com, gmail.com and yahoo.co.jp, often the same mailbox many times with plus tags such as `+dc27a8078a9x0738`, `+e84186a12fdx4794` or `+p20261021e714`
+- IPs change with every sign-up, mostly residential connections in Japan, the Americas and Europe
+
+The bot apparently uses Mastodon's confirmation email to check whether addresses on a list are still alive. The main risk is your mail server's reputation, not spam posts. Mastodon does not treat `name+tag@` as a duplicate of `name@`, so one mailbox can register again and again. We reject accounts that match both the username and the exact reason automatically.
+
+---
+
+Manche Registrierungswellen lassen sich mit Domain- oder IP-Listen nicht aufhalten, weil sie große Mailanbieter und wechselnde private IP-Adressen nutzen. Erkennen kann man sie aber an ihrem Muster.
+
+**„Deliverability probe“-Bot** (seit September 2026, große Welle erneut am 21./22. Oktober 2026, über 80 Anmeldungen an einem Tag auf troet.cafe):
+
+- Benutzername: `bp` und 16 Hex-Zeichen, z. B. `bp5bee20427df4517e`
+- Anmeldegrund, wörtlich: `Automated protocol deliverability probe`
+- E-Mail: meist icloud.com, gmail.com und yahoo.co.jp, oft dieselbe Mailbox mehrfach mit Plus-Tags wie `+dc27a8078a9x0738`, `+e84186a12fdx4794` oder `+p20261021e714`
+- Die IP wechselt bei jeder Anmeldung, meist private Anschlüsse in Japan, Amerika und Europa
+
+Der Bot nutzt offenbar die Bestätigungsmail von Mastodon, um zu prüfen, ob Adressen aus einer Liste noch existieren. Das eigentliche Risiko ist der Ruf des eigenen Mailservers, nicht Spam-Beiträge. Mastodon wertet `name+tag@` nicht als Dublette von `name@`, dieselbe Mailbox kann sich also immer wieder anmelden. Wir lehnen Konten automatisch ab, wenn Benutzername und Anmeldegrund beide passen.
+
 ## Updates
 
 These lists are actively maintained and updated regularly based on ongoing moderation of our instances.
