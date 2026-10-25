@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-10-18)
+# Generated from spam-domains.txt by validate.sh (2026-10-25)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -293,7 +293,6 @@ freightpat.com
 frisbook.com
 fthcapital.com
 fuasha.com
-funnyfail.app
 gamadaiz.shop
 gamebcs.com
 gamegta.com
@@ -363,7 +362,6 @@ huongvemientrung.store
 hutathuww.org
 hutov.com
 hutudns.com
-huynhtran.io.vn
 huytuyen.site
 i2m.email
 iaciu.com
@@ -418,6 +416,7 @@ ket-qua.org
 khaxan.com
 kimasoft.com
 kimdyn.com
+kimzavin.shop
 kindomd.com
 kissgy.com
 kixotic.com
@@ -508,7 +507,6 @@ navalcadets.com
 nbspace.us
 ncien.com
 nctime.com
-necolab-kyoto.com
 neroki.shop
 netfusionhub.surf
 netmon.ir
@@ -547,6 +545,7 @@ okexbit.com
 okiae.com
 omnilog.space
 onestiqu.com
+onionmail.com
 onmailflare.com
 openmail.pro
 operades.com
@@ -559,6 +558,7 @@ othao.com
 ourl.me
 owube.com
 oziere.com
+p51faxk34m.zohobillings.com
 pacfut.com
 paratrabajar.xyz
 pariag.com
@@ -612,7 +612,6 @@ saovangtiles.site
 sasukiez.shop
 senvas.me
 sepole.com
-shagster.net
 shahidrazi.online
 shopempva11.com
 shopld.linkpc.net
