@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-10-25)
+# Generated from spam-domains.txt by validate.sh (2026-11-01)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -96,7 +96,6 @@ barodis.com
 bauscn.com
 bawsny.com
 baxidy.com
-bbmail.store
 bdnets.com
 benznoi.com
 besenica.com
@@ -120,9 +119,9 @@ buides.com
 bulatox.com
 bultoc.com
 burangir.com
+butteiumien.io.vn
 bwmyga.com
 byconf.com
-byth57d.online
 cadolls.com
 calorpg.com
 camjoint.com
@@ -157,13 +156,13 @@ clubemp.com
 cmailing.com
 cmhvzylmfc.com
 cnguopin.com
-codedrix.com
 coderdir.com
 codverts.com
 colimarl.com
 confmin.com
 connectcrossword.com
 connected.linkpc.net
+connectifyhub.sbs
 cosaxu.com
 cotasen.com
 cotigz.com
@@ -245,10 +244,7 @@ elygifts.com
 emailgen.uk
 emailkp.com
 empva11.com
-empva11.io.vn
 empva1.com
-empva1.io.vn
-empva.io.vn
 endelite.com
 eoilup.com
 eosbuzz.com
@@ -347,6 +343,7 @@ hiepth.com
 highapes.run.place
 hikuhu.com
 him6.com
+hiringview.com
 hlkes.com
 homewiseleaf.com
 hopesx.com
@@ -414,6 +411,7 @@ kelenson.com
 kernuo.com
 ket-qua.org
 khaxan.com
+khtextile.com
 kimasoft.com
 kimdyn.com
 kimzavin.shop
@@ -638,7 +636,6 @@ tamttts.com
 tasteofriver.com
 tech2grow.io.vn
 tembusselalu.biz.id
-temp.skymeshdynamics.com
 thaitudang.xyz
 thanhnhontienbao.com
 therussellgroupnevada.com
@@ -669,7 +666,6 @@ unik.it.com
 usrl71x.camdvr.org
 vaband.com
 vectorbrasil.app
-veo325kcredit.io.vn
 veo325k.io.vn
 veomatrix25k.io.vn
 vextora.click
