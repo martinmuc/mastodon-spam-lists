@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-11-01)
+# Generated from spam-domains.txt by validate.sh (2026-11-08)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -18,11 +18,9 @@
 25kselll.io.vn
 25kveo.io.vn
 2mail.co
-2xp5.dung2tb.io.vn
 45kg2gveo3.io.vn
 45kveo3.io.vn
 45kveo.io.vn
-5qp5.dung2tb.io.vn
 7novels.com
 8nzqulf.jejes.de
 99113377.xyz
@@ -99,7 +97,6 @@ baxidy.com
 bdnets.com
 benznoi.com
 besenica.com
-bespokehaircare.co.uk
 bflcafe.com
 bialode.com
 binafex.com
@@ -180,7 +177,6 @@ cyberionexus.shop
 czilou.com
 d3gf.de
 dabeixin.com
-dailynove.com
 dailynutria.com
 dash.dino.icu
 datehype.com
@@ -323,7 +319,6 @@ gufum.com
 gusronk.com
 gxuzi.com
 gyknife.com
-gzpw.ccpro.click
 hagendes.com
 haikido.com
 haizail.com
@@ -385,14 +380,12 @@ isorax.com
 iuno.fun
 ixunbo.com
 izeao.com
-jackkz.sbs
 jahsec.com
 jameagle.com
 jasonpost.site
 jiangmen.icu
 jio1.com
 jlpevents.co.uk
-jokerz.sbs
 jomspar.com
 jonira.sbs
 jrhmail.com
@@ -447,8 +440,6 @@ ll.throwaway.v6.navy
 lnwtt.com
 lofiey.com
 lonaxter.site
-lowprizo.com
-lum25kcredit.io.vn
 lumm25k.io.vn
 luvnish.com
 lxheir.com
@@ -624,6 +615,7 @@ socialpulse.casa
 softlitceg.com
 spacezin.space
 spaiauto.com
+spiedemtion.store
 sportrid.com
 spotlightdiary.com
 sweatpopi.com
@@ -636,6 +628,7 @@ tamttts.com
 tasteofriver.com
 tech2grow.io.vn
 tembusselalu.biz.id
+temp.skymeshdynamics.com
 thaitudang.xyz
 thanhnhontienbao.com
 therussellgroupnevada.com
@@ -645,7 +638,6 @@ tiksofi.uk
 tilontad.com
 tilvex.click
 titangamezz.com
-tl92.dung2tb.io.vn
 tmail.lt
 toan.triennguyen.com
 toan.trithuc.info
@@ -660,7 +652,6 @@ tt.throwaway.v6.army
 tuyenchau.click
 tuyenchau.online
 tuyenhuy.site
-ultralux.io.vn
 ultraz1.io.vn
 unik.it.com
 usrl71x.camdvr.org
@@ -686,7 +677,6 @@ wecanmakehit.win
 wnbaldwy.com
 work.gd
 wuoting.com
-x2ge.dung2tb.io.vn
 xcucngon.site
 xx.ados.bbroot.com
 yeummo.io.vn
