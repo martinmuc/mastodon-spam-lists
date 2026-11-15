@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-11-08)
+# Generated from spam-domains.txt by validate.sh (2026-11-15)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -19,7 +19,6 @@
 25kveo.io.vn
 2mail.co
 45kg2gveo3.io.vn
-45kveo3.io.vn
 45kveo.io.vn
 7novels.com
 8nzqulf.jejes.de
@@ -153,6 +152,7 @@ clubemp.com
 cmailing.com
 cmhvzylmfc.com
 cnguopin.com
+codedrix.com
 coderdir.com
 codverts.com
 colimarl.com
@@ -222,13 +222,11 @@ dropmail.me
 dubokutv.com
 duckyoursick.com
 dwakm.com
-dyur1.xshop.bond
 easymailer.live
 eckpcin.giize.com
 edinel.com
 ee.throwaway.v6.rocks
 efpaper.com
-ejp8.ccpro.click
 elafans.com
 elahan.com
 elecling.com
@@ -392,6 +390,7 @@ jrhmail.com
 jrvps.com
 jsncos.com
 juhxs.com
+k12.betaxx.us
 k39shop.store
 k4money.com
 kanlangld.shop
@@ -418,7 +417,6 @@ kpmn-design.org
 krouter.net
 ksyhtc.com
 ktpingprox.id.vn
-ktw3999.xyz
 kvegg.com
 kytstore.com
 lanipe.com
@@ -505,7 +503,6 @@ nexorabio.pro.vn
 nexosphere.lifestyle
 nexxterp.com
 nhmvn.com
-ni3i.ccpro.click
 nn.throwaway.v6.army
 nn.throwaway.v6.rocks
 noidem.com
@@ -601,7 +598,6 @@ saovangtiles.site
 sasukiez.shop
 senvas.me
 sepole.com
-shahidrazi.online
 shopempva11.com
 shopld.linkpc.net
 siessed.com
@@ -672,14 +668,12 @@ voryxen.com
 vsjdc7k.jejes.de
 vssyoutube.com
 vv.throwaway.v6.navy
-warrity25k.io.vn
 wecanmakehit.win
 wnbaldwy.com
 work.gd
 wuoting.com
 xcucngon.site
 xx.ados.bbroot.com
-yeummo.io.vn
 yogirt.com
 yomail.info
 yopmail.com
