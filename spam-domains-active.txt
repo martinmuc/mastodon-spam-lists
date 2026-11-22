@@ -1,5 +1,5 @@
 # Mastodon Spam Email Domains — Active Only
-# Generated from spam-domains.txt by validate.sh (2026-11-15)
+# Generated from spam-domains.txt by validate.sh (2026-11-22)
 #
 # Only domains with active DNS (A or MX record).
 # Full list (incl. inactive): ../lists/spam-domains.txt
@@ -12,14 +12,10 @@
 1200b.com
 24faw.com
 24hinbox.com
-25kg2gveo3.io.vn
 25kmans.io.vn
 25kmembers.io.vn
 25kselll.io.vn
-25kveo.io.vn
 2mail.co
-45kg2gveo3.io.vn
-45kveo.io.vn
 7novels.com
 8nzqulf.jejes.de
 99113377.xyz
@@ -152,7 +148,6 @@ clubemp.com
 cmailing.com
 cmhvzylmfc.com
 cnguopin.com
-codedrix.com
 coderdir.com
 codverts.com
 colimarl.com
@@ -227,6 +222,7 @@ eckpcin.giize.com
 edinel.com
 ee.throwaway.v6.rocks
 efpaper.com
+ejp8.ccpro.click
 elafans.com
 elahan.com
 elecling.com
@@ -237,6 +233,7 @@ eluxeer.com
 elygifts.com
 emailgen.uk
 emailkp.com
+emman.my.id
 empva11.com
 empva1.com
 endelite.com
@@ -307,6 +304,7 @@ graphicdany.site
 graphicedge.click
 graphicedge.io.vn
 graphicedge.tokyo
+graphicenda.site
 graphiclean.site
 graphiclean.tokyo
 graphiclens.site
@@ -317,12 +315,14 @@ gufum.com
 gusronk.com
 gxuzi.com
 gyknife.com
+gzpw.ccpro.click
 hagendes.com
 haikido.com
 haizail.com
 halamaridfcfs.site
 halbov.com
 haleloya.site
+hancorli.co
 hanghai232.shop
 hanoinet.io.vn
 haotuwu.com
@@ -352,6 +352,7 @@ huongvemientrung.store
 hutathuww.org
 hutov.com
 hutudns.com
+huynhlx.shop
 huytuyen.site
 i2m.email
 iaciu.com
@@ -364,7 +365,6 @@ ii.tempfree.v6.rocks
 ikowat.com
 im5z.com
 imfaya.com
-infix1.io.vn
 infornma.com
 inglosh.com
 inilas.com
@@ -375,7 +375,6 @@ irinakicka.site
 ironbrookco.com
 ishense.com
 isorax.com
-iuno.fun
 ixunbo.com
 izeao.com
 jahsec.com
@@ -438,7 +437,6 @@ ll.throwaway.v6.navy
 lnwtt.com
 lofiey.com
 lonaxter.site
-lumm25k.io.vn
 luvnish.com
 lxheir.com
 macho3.com
@@ -460,7 +458,6 @@ merumart.com
 messibucu.click
 metajaya.biz.id
 migonom.com
-minh2.idhmz.io.vn
 minitts.net
 miracle3.com
 misehub.com
@@ -503,6 +500,7 @@ nexorabio.pro.vn
 nexosphere.lifestyle
 nexxterp.com
 nhmvn.com
+ni3i.ccpro.click
 nn.throwaway.v6.army
 nn.throwaway.v6.rocks
 noidem.com
@@ -557,6 +555,7 @@ percyfx.com
 phuongnhicare.com
 pickmail.org
 pickmemail.com
+pizuhdev.work
 plowcreek.org
 pntvipveo45k.io.vn
 pnvipveo25k.io.vn
@@ -614,6 +613,8 @@ spaiauto.com
 spiedemtion.store
 sportrid.com
 spotlightdiary.com
+stgodanang.com
+studio.jo3.org
 sweatpopi.com
 sybilproxy.com
 syntheradynamics.site
@@ -653,7 +654,6 @@ unik.it.com
 usrl71x.camdvr.org
 vaband.com
 vectorbrasil.app
-veo325k.io.vn
 veomatrix25k.io.vn
 vextora.click
 viettravel.io.vn
